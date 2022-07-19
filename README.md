@@ -1,5 +1,5 @@
 # tfmodule-aws-cloudtrail
-aws-cloudtrail 구성을 표준화 / 템플릿화 하여 쉽고 재사용 가능한 수준으로 하기 위함입니다.
+aws-cloudtrail 구성을 표준화 / 템플릿화 하여 쉽고 재사용 가능한 수준으로 하기 위한 Terraform 자동화 템플릿.
 
 
 ## Variables
